@@ -3,7 +3,7 @@
 ## GitHub Repository
 [GitHub](https://github.com/josephptflanagan/200816-E-Commerce-Back-End)
 
-## Video Walktrhough
+## Video Walkthrough
 * [Walkthrough Part 1](https://drive.google.com/file/d/1bO8UdLYcLUwgTkwCVQb_wF-AkHXpk1a7/view)
  
 * [Walkthrough Part 2](https://drive.google.com/file/d/1_FXjn4iijYHUcjPHcGCF2id4Vz5jJ54a/view)
